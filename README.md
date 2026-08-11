@@ -14,13 +14,13 @@ This website project was created as our Final Activity Project in **Oracle Progr
   </tr>
   <tr>
     <td align="center">
-      <img width="200" alt="Touring Section" src="https://github.com/user-attachments/assets/9af1c75e-fee0-482f-9251-76d23024bb51" />
+      <img width="200" alt="Touring Section" src="https://github.com/user-attachments/assets/24c07d08-f467-4229-bd55-fba9557121e7" />
     </td>
     <td align="center">
-      <img width="200" alt="Assistance Section" src="https://github.com/user-attachments/assets/207cd1b2-7144-47b5-b4ee-aca45dc05e40" />
+      <img width="200" alt="Assistance Section" src="https://github.com/user-attachments/assets/a240871f-50f7-4f29-8299-dfcba8baaacf" />
     </td>
     <td align="center">
-      <img width="200" alt="Footer" src="https://github.com/user-attachments/assets/24c07d08-f467-4229-bd55-fba9557121e7" />
+      <img width="200" alt="Footer" src="" />
     </td>
   </tr>
 </table>
