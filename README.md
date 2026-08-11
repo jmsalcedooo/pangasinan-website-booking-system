@@ -17,10 +17,10 @@ This website project was created as our Final Activity Project in **Oracle Progr
       <img width="200" alt="Touring Section" src="https://github.com/user-attachments/assets/24c07d08-f467-4229-bd55-fba9557121e7" />
     </td>
     <td align="center">
-      <img width="200" alt="Assistance Section" src="https://github.com/user-attachments/assets/a240871f-50f7-4f29-8299-dfcba8baaacf" />
+      <img width="200" alt="Assistance Section" src="https://github.com/user-attachments/assets/825b5257-2f01-46ef-a7bc-7e10e7082909" />
     </td>
     <td align="center">
-      <img width="200" alt="Footer" src="" />
+      <img width="200" alt="Footer" src="https://github.com/user-attachments/assets/080fe234-8c36-41b5-865b-db4dd7b0b5db" />
     </td>
   </tr>
 </table>
