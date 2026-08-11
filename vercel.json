@@ -1,13 +1,10 @@
 {
   "functions": {
-    "home.php": {
+    "index.php": {
       "runtime": "vercel-php@0.6.1"
     }
   },
   "routes": [
-    { "src": "/about", "dest": "/about.php" },
-    { "src": "/book", "dest": "/book.php" },
-    { "src": "/destination", "dest": "/destination.php" },
-    { "src": "/(.*)", "dest": "/home.php" }
+    { "src": "/(.*)", "dest": "/index.php" }
   ]
 }
