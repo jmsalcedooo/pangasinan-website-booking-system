@@ -5,9 +5,9 @@
     }
   },
   "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/home.php"
-    }
+    { "src": "/about", "dest": "/about.php" },
+    { "src": "/book", "dest": "/book.php" },
+    { "src": "/destination", "dest": "/destination.php" },
+    { "src": "/(.*)", "dest": "/home.php" }
   ]
 }
