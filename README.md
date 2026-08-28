@@ -12,15 +12,15 @@ This website project was created as our Final Activity Project in **Oracle Progr
     <td align="center"><b>Assistance Section</b></td>
     <td align="center"><b>Footer</b></td>
   </tr>
-  <tr>
-    <td align="center">
-      <img width="200" alt="Touring Section" src="https://github.com/user-attachments/assets/24c07d08-f467-4229-bd55-fba9557121e7" />
+  <tr>  
+    <td align="center" width="33%">
+      <img width="100%" alt="Touring Section" src="https://github.com/user-attachments/assets/b94d9caf-45a9-4780-89bc-d6bfd3db48b0" />
     </td>
-    <td align="center">
-      <img width="200" alt="Assistance Section" src="https://github.com/user-attachments/assets/825b5257-2f01-46ef-a7bc-7e10e7082909" />
+    <td align="center" width="33%">
+      <img width="100%" alt="Assistance Section" src="https://github.com/user-attachments/assets/1e047130-32de-4e5a-bf15-089cc0397a0d" />
     </td>
-    <td align="center">
-      <img width="200" alt="Footer" src="https://github.com/user-attachments/assets/080fe234-8c36-41b5-865b-db4dd7b0b5db" />
+    <td align="center" width="33%">
+      <img width="100%" alt="Footer" src="https://github.com/user-attachments/assets/aabcdbd4-4efe-4bd0-befe-e825cd7dc5bf" />
     </td>
   </tr>
 </table>
