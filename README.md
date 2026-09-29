@@ -29,5 +29,5 @@ This website project was created as our Final Activity Project in **Oracle Progr
 
 ## 🛠️ Tech Stack & Features
 * **Database & Backend:** SQL
-* **Frontend:** HTML, CSS, PHP, JavaScript
+* **Frontend:** HTML, CSS, JavaScript
 * **Core Feature:** User ticket reservation and travel management for Pangasinan tours.
