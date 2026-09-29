@@ -1,6 +1,6 @@
 # Pangasinan Website Booking System
 
-This responsive web application was originally developed as a Group 2 Final Activity Project in **Oracle Programming II** at ACLC College of Manila. It serves as a comprehensive tourism hub where users can explore local history, discover top travel destinations, and seamlessly book tickets before traveling to Pangasinan, Philippines.
+This responsive web application was originally developed as a final activity project. It serves as a comprehensive tourism hub where users can explore local history, discover top travel destinations, and seamlessly book tickets before traveling to Pangasinan, Philippines.
 
 ---
  
