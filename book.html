@@ -26,10 +26,10 @@
       <img src="images/pangasinanlogo.png">
 
    <nav class="navbar">
-      <a href="home.php">Overview</a>
-      <a href="about.php">About Us</a>
-      <a href="destination.php">Destination</a>
-      <a href="book.php">Book</a>
+      <a href="index.html">Overview</a>
+      <a href="about.html">About Us</a>
+      <a href="destination.html">Destination</a>
+      <a href="book.html">Book</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -48,45 +48,51 @@
 
    <h1 class="heading-title">Sign Up to Book Your Trip!</h1>
 
-   <form action="book_form.php" method="post" class="book-form">
+   <!-- Free Web3Forms Integration -->
+   <form action="https://api.web3forms.com/submit" method="POST" class="book-form">
 
+      <!-- Replace YOUR_ACCESS_KEY_HERE with the key Web3Forms just gave you -->
+      <input type="hidden" name="access_key" value="ae80953f-c2ab-42ab-8461-8366c668d08a">
+      <input type="hidden" name="subject" value="New Pangasinan Trip Booking">
+      <!-- Optional: Redirects the user back to your site after booking instead of a blank page -->
+      <input type="hidden" name="redirect" value="https://localhost/book.html">
+   
       <div class="flex">
          <div class="inputBox">
             <span>Name :</span>
-            <input type="text" placeholder="Full Name" name="name">
+            <input type="text" placeholder="Full Name" name="name" required>
          </div>
          <div class="inputBox">
             <span>Email :</span>
-            <input type="email" placeholder="pangasinanspot@email.com" name="email">
+            <input type="email" placeholder="Email Address" name="email" required>
          </div>
          <div class="inputBox">
             <span>Phone :</span>
-            <input type="text" placeholder="+123-456-7890" name="phone">
+            <input type="text" placeholder="+63-123-456-7890" name="phone" required>
          </div>
          <div class="inputBox">
             <span>Address :</span>
-            <input type="text" placeholder="123 Pangasinan St., Philippines" name="address">
+            <input type="text" placeholder="Your Address" name="address" required>
          </div>
          <div class="inputBox">
             <span>Where to :</span>
-            <input type="text" placeholder="Your Destination" name="location">
+            <input type="text" placeholder="Destination" name="location" required>
          </div>
          <div class="inputBox">
             <span>Extra Guests :</span>
-            <input type="number" placeholder="How many" name="guests">
+            <input type="number" placeholder="How many" name="guests" min="0" required>
          </div>
          <div class="inputBox">
             <span>Arrival :</span>
-            <input type="date" name="arrivals">
+            <input type="date" name="arrivals" required>
          </div>
          <div class="inputBox">
             <span>Leaving :</span>
-            <input type="date" name="leaving">
+            <input type="date" name="leaving" required>
          </div>
       </div>
-
-      <center><input type="submit" value="Submit" class="btn" name="send">
-
+   
+      <center><input type="submit" value="Submit Booking" class="btn"></center>
    </form>
 
 </section>
@@ -139,10 +145,10 @@
 
       <div class="box">
          <h3>Quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i>Home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i>About</a>
-         <a href="destination.php"> <i class="fas fa-angle-right"></i>Destination</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i>Book</a>
+         <a href="home.html"> <i class="fas fa-angle-right"></i>Home</a>
+         <a href="about.html"> <i class="fas fa-angle-right"></i>About</a>
+         <a href="destination.html"> <i class="fas fa-angle-right"></i>Destination</a>
+         <a href="book.html"> <i class="fas fa-angle-right"></i>Book</a>
       </div>
 
       <div class="box">
